@@ -8,7 +8,6 @@ public class HelperController : MonoBehaviour
     void Start()
     {
         StartCoroutine(MakeMoney());
-        Debug.Log("Ω√¿€");
     }
 
     IEnumerator MakeMoney()
